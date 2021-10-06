@@ -18,7 +18,7 @@ function App() {
 
 
   return (
-    <div>
+    <div className="App">
 
         <Header as='h2' icon='users' content='Reactivities' />
 
